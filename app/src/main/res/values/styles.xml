@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
     <style name="Widget.TipTime.TextView" parent="Widget.MaterialComponents.TextView">
         <item name="minHeight">@dimen/min_text_height</item>
         <item name="android:gravity">center_vertical</item>
